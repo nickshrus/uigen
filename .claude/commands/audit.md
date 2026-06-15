@@ -1,0 +1,1 @@
+Run npm audit to check for vulnerable dependencies, then run npm audit fix to apply safe updates, then run npm test to verify nothing broke.
